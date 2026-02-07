@@ -11,7 +11,7 @@ export const OFFICIAL_LINKS = {
   whatsapp: {
     number: "https://wa.me/923001234567", // آپ کا نمبر
     channel: "https://whatsapp.com/channel/example", // چینل لنک
-    group: "https://chat.whatsapp.com/example" // آفیشل گروپ
+    group: "https://chat.whatsapp.com/kjhhhhhkhjhjhkkkkkkkkkkkkk" // آفیشل گروپ
   },
   
   facebook: {
