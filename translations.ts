@@ -32,7 +32,7 @@ Object.keys(categoryMapUR).forEach(k => commonCategoriesEN[k] = k);
 
 export const TRANSLATIONS: Record<Language, Translations> = {
   en: {
-    title: 'WhatsApp Directory',
+    title: 'Girls WhatsApp Group',
     subtitle: 'Find and join high quality WhatsApp groups globally.',
     searchPlaceholder: 'Search name, category...',
     searchBtn: 'Search',
@@ -148,7 +148,7 @@ export const TRANSLATIONS: Record<Language, Translations> = {
     dir: 'rtl'
   },
   roman: {
-    title: 'WhatsApp Directory',
+    title: 'girls WhatsApp Group',
     subtitle: 'Global WhatsApp groups talash karein aur join karein.',
     searchPlaceholder: 'Naam ya category search karein...',
     searchBtn: 'Search',
